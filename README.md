@@ -1,4 +1,3 @@
-```markdown
 # YOLOv8 Training and Detection
 
 This repository contains code for training and running object detection using YOLOv8, implemented using the Ultralytics library. It provides scripts for training the model on custom datasets and performing inference on images. Additionally, there is a Streamlit web application hosted on Google Colab for interactive inference.
@@ -56,8 +55,3 @@ Make sure to organize your dataset in the COCO format and create a YAML configur
 
 After training, the model weights and training logs will be saved in the `runs` directory. You can visualize the training progress and evaluate the model's performance using TensorBoard.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
