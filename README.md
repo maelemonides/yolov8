@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README.md file that includes an explanation about the Streamlit app hosted on Google Colab:
-
 ```markdown
 # YOLOv8 Training and Detection
 
@@ -63,5 +61,3 @@ After training, the model weights and training logs will be saved in the `runs` 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
-In this updated version, I've added a section titled "Streamlit Web Application" that provides information about the Streamlit app hosted on Google Colab, along with instructions on how to access and use it. Make sure to replace the placeholder `your-colab-notebook-url` with the actual URL of your Colab notebook.
