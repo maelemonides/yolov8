@@ -44,7 +44,7 @@ python detect.py --source /path/to/images --weights yolov8n.pt
 
 An interactive Streamlit web application is available for performing inference on images. The application is hosted on Google Colab. To use it, follow these steps:
 
-1. Open the [YOLOv8 Streamlit App](https://colab.research.google.com/drive/your-colab-notebook-url).
+1. Open the [YOLOv8 Streamlit App]
 2. Follow the instructions provided in the notebook to upload images and perform inference using the trained YOLOv8 model.
 
 ## Dataset Preparation
