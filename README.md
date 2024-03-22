@@ -55,3 +55,15 @@ Make sure to organize your dataset in the COCO format and create a YAML configur
 
 After training, the model weights and training logs will be saved in the `runs` directory. You can visualize the training progress and evaluate the model's performance using TensorBoard.
 
+
+![wamp1](https://github.com/maelemonides/yolov8/assets/101704314/3d48a270-262e-4ced-a90d-768d20e0c3bc)
+
+
+
+
+![wamp2](https://github.com/maelemonides/yolov8/assets/101704314/b23840af-5359-4730-ac28-db8f847e6e61)
+
+![wamp 3](https://github.com/maelemonides/yolov8/assets/101704314/1a5a8afd-3d13-4bbe-9e8a-06457e4d3d46)
+![wamp 4](https://github.com/maelemonides/yolov8/assets/101704314/2de6f77d-2b65-4ad0-9e80-bed967184a60)
+
+https://wandb.ai/mael-emonides/ultralytics?nw=nwusermaelemonides
